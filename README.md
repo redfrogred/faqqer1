@@ -1,1 +1,2 @@
-# faqqer1
+# barebones
+Very simple starter for flutter packages
